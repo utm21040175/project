@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "dropzone": "^6.0.0-beta.2"
+  },
+  "devDependencies": {
+    "laravel-vite-plugin": "^1.0.5",
+    "vite": "^5.3.5"
+  }
+}
